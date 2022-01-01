@@ -2,7 +2,8 @@
 export default function Portfolio() {
   return (
     <div id="portfolio">
-      <h3>portfolio section here</h3>
+      <h4>PORTFOLIO</h4>
+      <p>portfolio icons here</p>
     </div>
   )
 }
