@@ -1,0 +1,41 @@
+.portfolio {
+  text-align: right;
+}
+
+.portfolio h4 {
+  color: #ecd0d6;
+}
+
+.portfolio-underline {
+  height: 3px;
+  background-color: #ecd0d6;
+  width: 55%;
+  float: right;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.portfolio-container {
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: row nowrap;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.portfolio-container img {
+  width: 19vw;
+  border: solid black 1px;
+}
+
+.portfolio-box h5 {
+  color: #ecd0d6;
+  margin-top: -8px;
+}
+
+.portfolio-box h6 {
+  font-size: 30px;
+  font-weight: 1000;
+  color: #735d78;
+  margin-top: -4px;
+}
