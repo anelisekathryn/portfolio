@@ -1,3 +1,4 @@
+import '../assets/css/Connect.css';
 
 export default function Connect() {
   return (

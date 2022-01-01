@@ -1,3 +1,4 @@
+import '../assets/css/Home.css';
 
 import Header from '../components/Header.jsx'
 import About from '../components/About.jsx'
@@ -9,10 +10,12 @@ export default function Home() {
   return (
     <div>
       <Header />
-      <About />
-      <Portfolio />
-      <Experience />
-      <Connect />
+      <div className='home-subcontent'>
+        <About />
+        <Portfolio />
+        <Experience />
+        <Connect />
+      </div>
     </div>
   )
 }

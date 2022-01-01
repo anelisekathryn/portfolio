@@ -1,3 +1,5 @@
+import '../assets/css/Portfolio.css';
+
 
 export default function Portfolio() {
   return (
