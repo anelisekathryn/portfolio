@@ -1,11 +1,15 @@
+import { Switch, Route } from 'react-router-dom';
 
 import './App.css';
+import Home from './screens/Home.jsx'
+import Layout from './components/Layout.jsx'
+
 
 function App() {
   return (
-    <div className="App">
-      <h1>anelise portoflio site</h1>
-    </div>
+    <Layout>
+      <Home />
+    </Layout>
   );
 }
 
