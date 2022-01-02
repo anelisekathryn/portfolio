@@ -1,0 +1,11 @@
+.experience h4 {
+  color: #a8c7d0;
+}
+
+.experience-underline {
+  height: 3px;
+  background-color: #a8c7d0;
+  width: 55%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,8 @@
+.nav {
+  position: absolute;
+  width: 45%;
+  float: right;
+  display: flex;
+  flex-wrap: row nowrap;
+  justify-content: space-between;
+}

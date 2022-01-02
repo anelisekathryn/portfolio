@@ -1,0 +1,21 @@
+.connect {
+  text-align: right;
+  margin-bottom: 80px;
+}
+
+.connect h4 {
+  color: #ecd0d6;
+}
+
+.connect-paragraph {
+  margin-top: 35px;
+}
+
+.connect-underline {
+  height: 3px;
+  background-color: #ecd0d6;
+  width: 55%;
+  float: right;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}

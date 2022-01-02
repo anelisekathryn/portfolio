@@ -1,9 +1,17 @@
 .header {
   background-color: #f7d1cd;
   height: 100vh;
+  position: relative;
+  z-index: -1;
 }
 
 .header-text {
   width: 86%;
   margin: 0 auto;
+}
+
+.header h6 {
+  font-size: 32px;
+  font-weight: 1000;
+  color: #ffffff;
 }
