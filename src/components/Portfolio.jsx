@@ -1,6 +1,4 @@
 import '../assets/css/Portfolio.css';
-import plus from '../assets/graphics/plus-purple.png'
-
 
 export default function Portfolio() {
   return (

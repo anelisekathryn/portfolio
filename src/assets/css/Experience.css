@@ -9,3 +9,34 @@
   margin-top: 10px;
   margin-bottom: 20px;
 }
+
+.experience-text {
+  margin-bottom: 30px;
+}
+
+.experience-text h6 {
+  color: #735d78;
+}
+
+.experience-text ul {
+  margin-top: 5px;
+  margin-left: -20px;
+}
+
+.experience-text a {
+  text-decoration: none;
+  color: #735d78;
+  font-weight: 400;
+}
+
+.experience-button a {
+  text-decoration: none;
+  font-weight: 500;
+  color: white;
+  background-color: #735d78;
+  padding: 9px 14px 11px 14px;
+}
+
+.experience-button a:hover {
+  background-color: #ecd0d6;
+}

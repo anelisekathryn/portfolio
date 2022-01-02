@@ -69,7 +69,13 @@ p {
 
 li {
   font-family: "Heebo", sans-serif;
-  font-size: 17px;
+  font-size: 16px;
   font-weight: 350;
   margin: 0;
+  line-height: 28px;
+}
+
+a {
+  font-family: "Heebo", sans-serif;
+  font-weight: 350;
 }
