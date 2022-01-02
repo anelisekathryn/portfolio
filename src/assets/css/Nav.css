@@ -18,3 +18,7 @@
   font-size: 19px;
   font-weight: 600;
 }
+
+.nav a:hover {
+  color: #735d78;
+}

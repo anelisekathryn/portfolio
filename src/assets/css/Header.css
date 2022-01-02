@@ -2,16 +2,15 @@
   0% {
     background: #f7d1cd;
   }
-  50% {
+  100% {
     background: #ecd0d6;
   }
-  100% {
+  /* 100% {
     background: #d1b3c4;
-  }
+  } */
 }
 
 .header {
-  /* background-color: #f7d1cd; */
   animation-name: backgroundColorPalette;
   animation-duration: 3s;
   animation-iteration-count: infinite;
