@@ -15,7 +15,7 @@ export default function Experience() {
           <li>Extensive experience working in CMS platforms to redesign, edit, and launch marketing sites.</li>
           <li>Over 10 years of experience managing brand direction, graphic designers, and content creation.</li>
           <li>Proven track record managing high-pressure projects and leading teams to success.</li>
-          <li>Extensive career and freelance experience in graphic design using InDesign, Photoshop, and Illustrator</li>
+          <li>Extensive career and freelance experience in graphic design using InDesign, Photoshop, and Illustrator.</li>
         </ul>  
         <h6>education</h6>
         <ul>

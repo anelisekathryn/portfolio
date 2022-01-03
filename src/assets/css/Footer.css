@@ -38,11 +38,6 @@
 /* FOOTER -> MOBILE ================================ */
 
 @media (max-width: 469px) {
-  /* .footer {
-    text-align: center;
-    line-height: 0.2;
-    margin: 25px 0 10px 15px;
-  } */
   .footer-left {
     display: none;
   }
@@ -65,13 +60,13 @@
   .footer-right {
     text-align: right;
     padding: 25px 0 10px 15px;
-    margin: 5px 70px 0px 0;
+    margin: 5px 82px 0px 0;
   }
   .footer-left {
     display: flex;
     flex-direction: column;
     text-align: left;
-    margin: 30px 0 20px 70px;
+    margin: 30px 0 20px 80px;
     line-height: 1em;
   }
 }

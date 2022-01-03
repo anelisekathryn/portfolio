@@ -60,6 +60,13 @@ h6 {
   margin: 0;
 }
 
+h6 {
+  font-family: "Heebo", sans-serif;
+  font-size: 12px;
+  font-weight: 450;
+  margin: 0;
+}
+
 p {
   font-family: "Heebo", sans-serif;
   font-size: 19px;

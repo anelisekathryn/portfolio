@@ -28,9 +28,14 @@
   border: 1px solid rgb(128, 128, 128);
 }
 
+.portfolio-box p {
+  font-size: 15px;
+  margin-bottom: 6px;
+}
+
 .portfolio-box h5 {
   color: #ecd0d6;
-  margin-top: -8px;
+  margin-top: 8px;
 }
 
 .portfolio-box h6 {
@@ -38,4 +43,41 @@
   font-weight: 1000;
   color: #735d78;
   margin-top: -4px;
+  margin-bottom: -9px;
+}
+
+.portfolio-box h7 {
+  margin-bottom: 5px;
+}
+
+/* PORTFOLIO DROPDOWNS ---------------- */
+
+.section-line {
+  background-color: black;
+  height: 1px;
+  margin: 8px 0 8px 0;
+}
+
+.code-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.portfolio-box a {
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 500;
+  color: white;
+  background-color: #735d78;
+  width: 38%;
+  margin: 0 auto;
+  padding: 6px 4px 6px 4px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.ski-dropdown {
+  /* display: none; */
+  width: 19vw;
+  margin: 0 auto;
 }
