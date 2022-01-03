@@ -25,7 +25,7 @@
 
 .portfolio-container img {
   width: 19vw;
-  border: solid black 1px;
+  border: 1px solid rgb(128, 128, 128);
 }
 
 .portfolio-box h5 {
