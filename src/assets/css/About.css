@@ -34,3 +34,22 @@
 .about-container p {
   line-height: 34px;
 }
+
+.tech-container {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: row nowrap;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.tech-icon img {
+  height: 3.6vw;
+}
+
+.tech-icon p {
+  font-size: 1vw;
+  font-weight: 450;
+  text-align: center;
+  margin-top: 8px;
+}

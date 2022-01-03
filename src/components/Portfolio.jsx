@@ -1,5 +1,4 @@
 import '../assets/css/Portfolio.css';
-import css from '../assets/graphics/skills/css.png'
 
 export default function Portfolio() {
   return (
