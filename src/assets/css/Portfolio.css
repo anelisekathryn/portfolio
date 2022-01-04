@@ -38,12 +38,23 @@
   margin-top: 10px;
 }
 
+.portfolio-box h5:hover {
+  cursor: pointer;
+  color: #735d78;
+}
+
 .portfolio-box h6 {
   font-size: 30px;
   font-weight: 1000;
   color: #735d78;
   margin-top: -4px;
   margin-bottom: -14px;
+  transition: transform 0.8s ease-in-out;
+}
+
+.portfolio-box h6:hover {
+  cursor: pointer;
+  transform: rotate(360deg);
 }
 
 /* PORTFOLIO DROPDOWNS ---------------- */
@@ -83,22 +94,7 @@
   background-color: #ecd0d6;
 }
 
-.ski-dropdown {
-  width: 19vw;
-  margin: 0 auto;
-}
-
-.job-dropdown {
-  width: 19vw;
-  margin: 0 auto;
-}
-
-.everfree-dropdown {
-  width: 19vw;
-  margin: 0 auto;
-}
-
-.wandermore-dropdown {
+.dropdown {
   width: 19vw;
   margin: 0 auto;
 }

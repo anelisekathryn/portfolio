@@ -24,7 +24,11 @@ export default function Experience() {
         </ul>  
       </div>
       <div className='experience-button'>
-        <Link>view resume</Link>
+      <a
+        href="https://app.box.com/s/2ekp3y5y2gb9599apkvkrtcquy9zohja"
+        target="_blank"
+        rel="noreferrer"
+      >view resume</a>
       </div>
     </div>
   )

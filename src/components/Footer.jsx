@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import email from '../assets/graphics/email-white.png'
 import github from '../assets/graphics/github-white.png'
 import linkedin from '../assets/graphics/linkedin-white.png'
+import resume from '../assets/files/AneliseBergin_Resume-2022_V2.pdf'
 
 export default function Footer() {
   return (
@@ -31,7 +32,12 @@ export default function Footer() {
           ><img alt="linkedin icon" src={linkedin}></img>
           </a>
         </div>  
-        <Link className='footer-button'>download resume</Link>
+        <a
+          href={resume}
+          target="_blank"
+          rel="noopener noreferrer"
+          className='footer-button'
+        >download resume</a>
       </div>  
     </div>
   )
