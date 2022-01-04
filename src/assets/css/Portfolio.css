@@ -79,26 +79,26 @@
   margin-bottom: 5px;
 }
 
+.portfolio-box a:hover {
+  background-color: #ecd0d6;
+}
+
 .ski-dropdown {
-  /* display: none; */
   width: 19vw;
   margin: 0 auto;
 }
 
 .job-dropdown {
-  /* display: none; */
   width: 19vw;
   margin: 0 auto;
 }
 
 .everfree-dropdown {
-  /* display: none; */
   width: 19vw;
   margin: 0 auto;
 }
 
 .wandermore-dropdown {
-  /* display: none; */
   width: 19vw;
   margin: 0 auto;
 }
