@@ -19,7 +19,7 @@ export default function Portfolio() {
           className='portfolio-box'
           onMouseLeave={() => setShowSki(false)}
         >
-          <img alt='ski weather site' src='https://i.imgur.com/L2psB13.png'></img>
+          <img onClick={() => setShowSki(true)} alt='ski weather site' src='https://i.imgur.com/L2psB13.png'></img>
           <h6 onClick={() => setShowSki(true)}>+</h6>
           {showSki && (
             <div className='dropdown'>
@@ -50,7 +50,7 @@ export default function Portfolio() {
           className='portfolio-box'
           onMouseLeave={() => setShowJob(false)}
         >
-          <img alt='job hunt site' src='https://i.imgur.com/iWRh43B.png'></img>
+          <img onClick={() => setShowJob(true)} alt='job hunt site' src='https://i.imgur.com/iWRh43B.png'></img>
           <h6 onClick={() => setShowJob(true)}>+</h6>
           {showJob && (
             <div className='dropdown'>
@@ -81,7 +81,7 @@ export default function Portfolio() {
           className='portfolio-box'
           onMouseLeave={() => setShowEverfree(false)}
         >
-          <img alt='everfree outdoors site' src='https://i.imgur.com/XFUL1Mu.png'></img>
+          <img onClick={() => setShowEverfree(true)} alt='everfree outdoors site' src='https://i.imgur.com/XFUL1Mu.png'></img>
           <h6 onClick={() => setShowEverfree(true)}>+</h6>
           {showEverfree && (
             <div className='dropdown'>
@@ -113,7 +113,7 @@ export default function Portfolio() {
           className='portfolio-box'
           onMouseLeave={() => setShowWandermore(false)}
         >
-          <img alt='wandermore site' src='https://i.imgur.com/ZZoGm7W.png'></img>
+          <img onClick={() => setShowWandermore(true)} alt='wandermore site' src='https://i.imgur.com/ZZoGm7W.png'></img>
           <h6 onClick={() => setShowWandermore(true)}>+</h6>
           {showWandermore && (
             <div className='dropdown'>
