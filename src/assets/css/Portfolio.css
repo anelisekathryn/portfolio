@@ -35,7 +35,7 @@
 
 .portfolio-box h5 {
   color: #ecd0d6;
-  margin-top: 8px;
+  margin-top: 10px;
 }
 
 .portfolio-box h6 {
@@ -43,11 +43,7 @@
   font-weight: 1000;
   color: #735d78;
   margin-top: -4px;
-  margin-bottom: -9px;
-}
-
-.portfolio-box h7 {
-  margin-bottom: 5px;
+  margin-bottom: -14px;
 }
 
 /* PORTFOLIO DROPDOWNS ---------------- */
@@ -55,12 +51,19 @@
 .section-line {
   background-color: black;
   height: 1px;
-  margin: 8px 0 8px 0;
+  margin: 10px 0 8px 0;
 }
 
 .code-list {
   display: flex;
   flex-direction: column;
+}
+
+.code-list p {
+  font-size: 15px;
+  font-weight: 400;
+  margin: 0;
+  margin-bottom: 2px;
 }
 
 .portfolio-box a {
@@ -77,6 +80,24 @@
 }
 
 .ski-dropdown {
+  /* display: none; */
+  width: 19vw;
+  margin: 0 auto;
+}
+
+.job-dropdown {
+  /* display: none; */
+  width: 19vw;
+  margin: 0 auto;
+}
+
+.everfree-dropdown {
+  /* display: none; */
+  width: 19vw;
+  margin: 0 auto;
+}
+
+.wandermore-dropdown {
   /* display: none; */
   width: 19vw;
   margin: 0 auto;
