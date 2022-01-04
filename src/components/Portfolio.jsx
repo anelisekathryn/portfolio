@@ -28,7 +28,7 @@ export default function Portfolio() {
               <div className='code-list'>
                 <p>HTML</p>
                 <p>CSS</p>
-                <p>Javascript</p>
+                <p>Vanilla Javascript</p>
                 <p>NOAA API</p>
                 <a
                   href="https://anelisekathryn.github.io/ski-resort-weather/"
