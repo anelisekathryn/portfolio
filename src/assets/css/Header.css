@@ -124,7 +124,7 @@
 
 @media (max-width: 425px) {
   .header-text {
-    transform: translate(-2%, 60%);
+    transform: translate(-2%, 50%);
   }
   .header h2 {
     font-size: 4.9vw;
