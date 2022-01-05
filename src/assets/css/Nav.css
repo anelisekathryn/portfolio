@@ -23,6 +23,7 @@
   color: #735d78;
 }
 
+/* ABOUT -> MOBILE ======================================= */
 @media (max-width: 640px) {
   .nav {
     display: none;

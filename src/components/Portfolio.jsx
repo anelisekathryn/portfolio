@@ -24,7 +24,7 @@ export default function Portfolio() {
           {showSki && (
             <div className='dropdown'>
               <div className='section-line'></div>
-              <p>An easy to use website that displays the current weather at a selected ski resort from a drop down menu.</p>
+              <p>An easy to use site that displays the current weather at a selected ski resort from a drop down menu.</p>
               <div className='code-list'>
                 <p>HTML</p>
                 <p>CSS</p>
