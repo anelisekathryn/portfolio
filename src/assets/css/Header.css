@@ -80,3 +80,59 @@
 .header-dropdown h3 {
   margin-top: 6.4px;
 }
+
+/* HEADER -> MOBILE ======================================= */
+
+@media (max-width: 963px) {
+  .header h1 {
+    font-size: 8.8vw;
+  }
+  .header h2 {
+    font-size: 3.1vw;
+  }
+}
+
+@media (max-width: 850px) {
+  .header-subtext h3 {
+    font-size: 2.8vw;
+  }
+}
+
+@media (max-width: 768px) {
+  .header-text {
+    transform: translate(-4%, 48%);
+  }
+}
+
+@media (max-width: 640px) {
+  .header-text {
+    transform: translate(-4%, 40%);
+  }
+  .header h1 {
+    font-size: 12vw;
+  }
+  .header h2 {
+    font-size: 4.3vw;
+  }
+  .header-subtext h3 {
+    font-size: 3.4vw;
+  }
+  .header-subtext h6 {
+    font-size: 5.1vw;
+  }
+}
+
+@media (max-width: 425px) {
+  .header-text {
+    transform: translate(-2%, 60%);
+  }
+  .header h2 {
+    font-size: 4.9vw;
+  }
+  .header-subtext h3 {
+    font-size: 4.4vw;
+  }
+  .header-subtext h6 {
+    font-size: 6.8vw;
+  }
+}

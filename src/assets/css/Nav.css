@@ -22,3 +22,9 @@
 .nav a:hover {
   color: #735d78;
 }
+
+@media (max-width: 640px) {
+  .nav {
+    display: none;
+  }
+}
