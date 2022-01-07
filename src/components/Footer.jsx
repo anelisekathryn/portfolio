@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import email from '../assets/graphics/email-white.png'
 import github from '../assets/graphics/github-white.png'
 import linkedin from '../assets/graphics/linkedin-white.png'
-import resume from '../assets/files/AneliseBergin_Resume-2022_V2.pdf'
+import resume from '../assets/files/AneliseBergin_Resume-2022.pdf'
 
 export default function Footer() {
   return (
