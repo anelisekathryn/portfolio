@@ -1,5 +1,5 @@
 import '../assets/css/Experience.css';
-import { Link } from "react-router-dom"
+import resume from '../assets/files/AneliseBergin_Resume-2022.pdf'
 import { HashLink } from 'react-router-hash-link';
 
 export default function Experience() {
@@ -25,7 +25,7 @@ export default function Experience() {
       </div>
       <div className='experience-button'>
       <a
-        href="https://app.box.com/s/2ekp3y5y2gb9599apkvkrtcquy9zohja"
+        href="https://drive.google.com/file/d/1TIo1gdPDcG0QwINCQqQUVEhwXAT1Hd6I/view?usp=sharing"
         target="_blank"
         rel="noreferrer"
       >view resume</a>
